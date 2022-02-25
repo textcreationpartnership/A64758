@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of Richard Vaughan, Esq., recorder of Carmarthen, at His Grace the Duke of Beaufort (Lord President of Wales) his entrance into the said town</title>
+            <author>Vaughan, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64758</idno>
+            <idno type="STC">Wing V138</idno>
+            <idno type="STC">ESTC R6750</idno>
+            <idno type="EEBO-CITATION">13090667</idno>
+            <idno type="OCLC">ocm 13090667</idno>
+            <idno type="VID">97360</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64758)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97360)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 402:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of Richard Vaughan, Esq., recorder of Carmarthen, at His Grace the Duke of Beaufort (Lord President of Wales) his entrance into the said town</title>
+                  <author>Vaughan, Richard.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jacob Tonson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Imperfect: upper margins cropped.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Beaufort, Henry Somerset, --  Duke of, 1629-1700.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb facs="tcp:97360:1"/>
+            <!-- PDF PAGE 40 -->
+            <pb n="1" facs="tcp:97360:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 40 -->
+            <head>THE SPEECH OF Richard Vaughan <abbr>Eſq</abbr> RECORDER OF CARMARTHEN, At His GRACE The Duke of Beaufort <hi>(Lord Preſident of WALES)</hi> His ENTRACE into the ſaid TOWN.</head>
+            <opener>
+               <salute>May it pleaſe your GRACE,</salute>
+            </opener>
+            <p>ALthough in this your GRACES general Viſitation of the Pla<g ref="char:EOLhyphen"/>ces under your Command, This that you are now entered into (poſſibly) may ſeem among the Meaneſt; yet, by an Unani<g ref="char:EOLhyphen"/>mous Voice and Conſent, I have it in Charge to aſſure you, That there has been None, where the Hearts of the People have been filled with greater Awe and Veneration for your Character, greater Honour for your Perſon, greater Admiration of your Perfections, nor greater Glad<g ref="char:EOLhyphen"/>neſs at your Arrival: Hitherto they have worſhipt you at a diſtance, (as the <hi>Iſraelites</hi> did the <hi>Mount</hi>) and now they have the Pleaſure of ſeeing you Face to Face.</p>
+            <p>
+               <pb n="2" facs="tcp:97360:2"/>
+               <!-- PDF PAGE 41 -->
+But our Joyes muſt not be wholly laid out for your Grace: Part is due to the additional Satisfaction we conceive at the preſence of your Noble Son, who is Heir even in your Life of your incomparable Ver<g ref="char:EOLhyphen"/>tues; and as that may ſeem a Paradox in Law, ſo 'twill appear as high a Contradiction in Reaſon, That though your Grace has entirely con<g ref="char:EOLhyphen"/>vey'd unto his Lordſhip your excellent Endowments, yet notwithſtand<g ref="char:EOLhyphen"/>ing that Bounty, your own Original ſtock and abundance is not in the l<gap reason="illegible: bleedthrough" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt impair'd or diminiſhed. 'Tis is matter of exceeding trouble to us, That it lies not within the Compaſs of our Power, to exemplifie the Honour and Service we have for your Grace, by external Demonſtra<g ref="char:EOLhyphen"/>tions of Deference ſuitable to the Quality of ſo Illuſtrious a Perſon. In regard therefore the Extent of our Ability is not correſpondent to the Zeal of our Affection, the ſincerity of your Welcome will be very im<g ref="char:EOLhyphen"/>perfectly repreſented by the Solemnity of your Entertainment. The beſt and moſt pleaſing part of that will be, That your Grace will ſtill find our Heads and our Hearts inform'd and regulated by the ſame Principle of Loyalty, which was our Antidote againſt the Poyſon and Infection of thoſe Treaſonable Doctrines and Practices, which in the late diſmal Times of Rebellion (like the Frogs of <hi>Egypt</hi>) overſpread the Land round about us, but were not able to blaſt or corrupt our Vineyard, a Vineyard of ſo admirable a Mould, that it never gave Birth to any ſuch monſtrous Production, as a <hi>Sequeſtrator</hi> or <hi>Committee-man.</hi> Thoſe Boars of the Foreſt invaded it, with deſign to engender, and propagate their kind; They ſow'd their Tares amongſt our Wheat, and water'd them with our Blood, but (maugre that) the Nature and Virtue of our Soil, had ſo irreconcileable and averſion to the malignity of the Seed, that it never gave them any Return; and there<g ref="char:EOLhyphen"/>fore when they fail'd to debauch, they deſtroy'd and laid it waſte. The ſame Principle and Conſcience, which (in thoſe days of Deſolation) when we were no longer able to reſiſt, yet ſupported us to weather the Tyranny and Oppreſſions of thoſe Arbitrary and Republican <hi>Hoghen Moghens,</hi> rather than renounce the Cauſe of our SOVEREIGN, kindled and inflamed in us the higheſt Horror and Indignation, at the report of the late infernal and execrable CONSPIRACY againſt His MAJESTY, His ROYAL BROTHER, and the GOVERNMENT: A Conſpiracy that was equally complicated with Impudence and Im<g ref="char:EOLhyphen"/>piety, for beſides that, Sovereign Princes (being God Almighty's Vicege<g ref="char:EOLhyphen"/>rents here on Earth) are in that reſpect, in a more immediate manner, the Subjects of his Care and Protection: The Plot of our Sons of <hi>Belial</hi> carried a more particular Contempt and Affront of the Divine Power, ariſing from the more particular Providence it has exerted in the pre<g ref="char:EOLhyphen"/>ſervation of the BLOOD ROYAL of this Kingdom, ev'n above that of any other Nation, in ſo many ſignally repeated (I had almoſt ſaid miraculous) Inſtances.</p>
+            <p>Add to this, That it not only flies in the face of the <hi>Oath of Alle<g ref="char:EOLhyphen"/>giance,</hi> but moſt impudently beards the concurrent and uniform Authori<g ref="char:EOLhyphen"/>ty of all Laws Natural, Divine and Municipal.</p>
+            <p>
+               <pb n="3" facs="tcp:97360:2"/>
+               <!-- PDF PAGE 41 -->
+And as theſe Conſiderations, together with the Juſtice, Clemency and Candor of their Adminiſtration, ſeem to promiſe a ſufficient ſecu<g ref="char:EOLhyphen"/>rity to the Sacred Perſon; ſo (methinks) the Beauty and Excellence of our MONARCHY (which will appear yet the more ſhining, if ſet in oppoſition to the Baldneſs of a Republique) ſhould ſuperſede the neceſſity of any other Guard to our Government. A Government framed with ſo great Art and Curioſity, ſo exact a Symetry and Proportion through all its Parts, and finally ſo wifely diſpoſed, and accommodated to the joint and reciprocal Felicity of Prince and Subject, that there is none in the World can vie with it, either in reſpect of the Gracefulneſs and Splendor of its outward Form, or the more real Happineſs it diſ<g ref="char:EOLhyphen"/>penſes and communicates to all Orders and Degrees of Men living under it: A Government (in ſhort) that 'tis at once the Religion and Intereſt of the Subject, to defend and continue; and as the influence of the one engages all the good and honeſt to its ſupport, ſo the ſenſe of the other ſhould endear it ev'n to the moſt knaviſh, and ſell ended part of the People. Theſe are indeed plauſible deductions of Logick, but plain and ſimple Experience (which is free from that Sophiſtry and Deceit incident to Syllogiſm and Argument) has, beyond Contradiction, prov'd, That there have been a ſort of ſottiſh and profligate Miſcreants among us, that have tranſgreſſed againſt all theſe Lights; not only the Lights of their Conſciences, but (a ſtrange Infatuation!) their own tem<g ref="char:EOLhyphen"/>poral Peace and Happineſs; and all this, to reduce us again to the ſame ſtate of Captivity and Thraldom, from which we have not been ſo long freed. But that it may be very well remembred, that not only our Civil, but likewiſe our Philoſophick Rights and Liberties ſuffered Shipwrack, and even that fundamental Priviledge of our Species, the free uſe and exerciſe of our Speech, our Underſtandings, and all the Fa<g ref="char:EOLhyphen"/>culties of our Soul was under Sequeſtration.</p>
+            <p>And ſince Treaſon is in its Nature no leſs apt to be carried on by Policy, than Power; by clandeſtine Councel and Stratagem, than open Force and Violence; the goodneſs of God has as well appear'd in diſ<g ref="char:EOLhyphen"/>cloſing the Councels of our Traytors, as if he had diſcomfited their For<g ref="char:EOLhyphen"/>ces: Neither is our Praiſe and Thankſgiving only due for the bleſſing of the Diſcovery, but the happy Effect and Conſequence thereof, which has been the undeceiving a multitude of (probably well-meaning) Men who were miſled, and impoſed upon, by the ſanctimonious diſguiſe and popular amuſement of Religion and Piety.</p>
+            <p>And now there being nothing more conducive to the preſervation of all Places in their due Allegiance, than the intruſting them to the Conduct and Government of Perſons well affected, from a congratula<g ref="char:EOLhyphen"/>tory Addreſs to Providence for detecting and confounding the <hi>Snares of the Hunters,</hi> the Tranſition will be apt and natural to an acknow<g ref="char:EOLhyphen"/>ledgment of His MAJESTIES great Wiſdom, in ſetling us under
+<pb n="4" facs="tcp:97360:3"/>
+               <!-- PDF PAGE 42 -->your GRACES LIEUTENANCY, who, to all the Embeliſhments of Art and Nature, has the acceſſion of that, which is the beſt Ornament Man is capable of, I mean Loyalty and Affection to the KING: You derive it from your moſt honourable Anceſtors, 'tis entayled on your Fa<g ref="char:EOLhyphen"/>mily, and ſeems to be inherent and fixt in your Blood. He muſt needs be a very great Stranger to our <hi>Britiſh Annals,</hi> that is ignorant of the Aid they have conſtantly miniſtred to the Crown in its diſtreſs. All their Parts and Members have in their reſpective Provinces mov'd in ſubſer<g ref="char:EOLhyphen"/>viency to its Intereſt. The Wiſdom of their Heads has given it mature and proſperous Counſel in its moſt difficult Emergencies: The In<g ref="char:EOLhyphen"/>tegrity of their Hearts has fortified it with firm and faſt Friends in its Adverſity; The Might of their Hands has gained it Victory in the day of Battel. And laſtly, The fulneſs of their Coffers has afforded it Sup<g ref="char:EOLhyphen"/>ply and Relief in its extreameſt Exigency, in the loweſt Ebb of its Fortune.</p>
+            <p>I ſhall treſpaſs no further on your GRACES Patience, than whil'ſt I conclude with a moſt humble Praver to your GRACE, That you will always look on us with an Eye of Favour; We are ſenſible the beſt Title we can make to recommend us to your Patronage, and to the Honour and Relation of your Servants, will be, with our wonted Con<g ref="char:EOLhyphen"/>ſtancy, to maintain our Hereditary Character of Moſt Obedient Sub<g ref="char:EOLhyphen"/>jects, to the Common Father of our Countrey the KING, and of Con<g ref="char:EOLhyphen"/>formable Sons to our Holy Mother the CHURCH, and as the moſt pre<g ref="char:EOLhyphen"/>vailing and effectual Expedient to ſecure us againſt warping from our Duty to Both, We ſhall always endeavour to live in a Brotherly Love one among another.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for JACOB TONSON at the <hi>Judge's Head</hi> in <hi>Chancery-Lane,</hi> near <hi>Fleet-ſtreet.</hi> M. DC. LXXXIV.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
